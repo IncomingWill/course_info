@@ -22,7 +22,7 @@ def main():
     
     course_number = ""                              # initialize user input for course number for dictionary searches
 
-    course_number = sys.argv[1]                    # intialize user input for course number via command line
+    course_number = sys.argv[1]                     # intialize user input for course number via command line
 
     #course_number = input('Please enter the course number with appropriate case for aplhabetical characters: ')
 
